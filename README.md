@@ -1,13 +1,22 @@
 # Jogo - Retro Lander Personalizado
-## Por: Francisco Henrique da Silva Fuzari de Souza
+Por: [***Francisco Henrique***](https://www.linkedin.com/in/francisco-henrique-010912189)
 
-### Este projeto é um jogo 2D criado na Unity com C#, este jogo é a versão personalizada de um outro RetroLander que fiz, porém este contém PixelArts autorais.
+### -Projeto desenvolvido utilizando á *Game Engine* [Unity](https://unity.com/) com C#.
 
-![Capa RetroLander Personalizado](Imagens-ReadMe/Capa-RetroLanderPersonalizado.PNG)
+## Objetivo
+- Apresentar e Orientar como funciona o Game [Retro Lander](https://github.com/FuzariFrancisco/Jogo-RetroLander) Personalizado com minhas PixelArts, Projeto 2D.
 
-### O jogo possui apenas uma fase, onde seu objetivo é pousar o foguete em segurança em um dos planetas, você deve controlar o ângulo do foguete e sua propulsão, para não colidir com muita velocidade nos planetas e explodir ao pousar.
+![Capa RetroLander](Imagens-ReadMe/Capa-RetroLanderPersonalizado.PNG)
 
-![Capa RetroLander Personalizado](Imagens-ReadMe/Game-RetroLanderPersonalizado.PNG)
+### Gameplay
+- O jogo possui apenas uma fase, onde seu objetivo é pousar o foguete em segurança em um dos planetas, você deve controlar o ângulo do foguete e sua propulsão, para não colidir com muita velocidade nos planetas e explodir ao pousar.
+
+### Controles
+* **Seta direcional para Cima:** Impulsiona o foguete para o ângulo em que está direcionado.
+* **Seta direcional Esquerda:** Rotaciona o ângulo do foguete para a esquerda.
+* **Seta direcional Direita:** Rotaciona o ângulo do foguete para a direita.
+
+![Capa RetroLander](Imagens-ReadMe/Game-RetroLanderPersonalizado.PNG)
 
 ## Para Executar:
 * WEB: Na pasta Executável-WEB Rode o arquivo index.html e ele abrirá no seu navegador.
